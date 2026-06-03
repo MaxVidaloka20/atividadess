@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-mockup",
+      "description": "Product mockup showing digital sheets",
+      "imageUrl": "https://picsum.photos/seed/bible-app-1/800/600",
+      "imageHint": "bible activities mockup"
+    },
+    {
+      "id": "demo-1",
+      "description": "Activity sheet preview",
+      "imageUrl": "https://picsum.photos/seed/bible-app-2/600/800",
+      "imageHint": "children coloring sheet"
+    },
+    {
+      "id": "demo-2",
+      "description": "Bible story preview",
+      "imageUrl": "https://picsum.photos/seed/bible-app-3/600/800",
+      "imageHint": "bible story illustration"
+    },
+    {
+      "id": "demo-3",
+      "description": "Classroom preview",
+      "imageUrl": "https://picsum.photos/seed/bible-app-4/600/800",
+      "imageHint": "sunday school classroom"
+    },
+    {
+      "id": "author-avatar",
+      "description": "Teacher profile",
+      "imageUrl": "https://picsum.photos/seed/teacher-1/200/200",
+      "imageHint": "smiling teacher profile"
+    }
+  ]
+}
